@@ -1,9 +1,9 @@
-@import url('/Miranha/css/reset.css');
-@import url('/Miranha/css/global.css');
-@import url('/Miranha/css/Components/_navigation.css');
-@import url('/Miranha/css/Components/_pills.css');
-@import url('/Miranha/css/Components/_link-button.css');
-@import url('/Miranha/css/Components/_gallery.css');
+@import url('./css/reset.css');
+@import url('./css/global.css');
+@import url('./css/Components/_navigation.css');
+@import url('./css/Components/_pills.css');
+@import url('./css/Components/_link-button.css');
+@import url('./css/Components/_gallery.css');
 
 .s-wrapper {
   display: flex;
@@ -84,16 +84,16 @@
 }
 
 .s-spiderman-01-01 {
-  background-image: url('/miranha/images/spiderman-tobey/movie-01/background.png');
+  background-image: url('./images/spiderman-tobey/movie-01/background.png');
   background-size:cover;
 }
 
 .s-spiderman-01-02 {
-  background-image: url('/miranha/images/spiderman-tobey/movie-02/background.png');
+  background-image: url('./images/spiderman-tobey/movie-02/background.png');
   background-size: cover;
 }
 
 .s-spiderman-01-03 {
-  background-image: url('/miranha/images/spiderman-tobey/movie-03/background.png');
+  background-image: url('./images/spiderman-tobey/movie-03/background.png');
   background-size: cover;
 }
