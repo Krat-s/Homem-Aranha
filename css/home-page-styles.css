@@ -162,7 +162,7 @@ body#spider-man-02-hovered::before {
 }
 
 body#spider-man-03-hovered::before {
-  background-image: url('./assets/images/pic-sm-bg-03.jpg');
+  background-image: url('/../assets/images/pic-sm-bg-03.jpg');
 }
 
 body[id^='spider-man-']::before {
