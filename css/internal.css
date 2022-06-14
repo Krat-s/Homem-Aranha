@@ -1,6 +1,6 @@
 @import url('./reset.css');
 @import url('./global.css');
-@import url('./_navigation.css');
+@import url('./componentes/navigation.css');
 @import url('./componentes/pills.css');
 @import url('./componentes/link-button.css');
 @import url('./componentes/gallery.css');
