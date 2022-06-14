@@ -2,7 +2,7 @@
 @import url('global.css');
 @import url('./Components/_navigation.css');
 @import url('./Components/_pills.css');
-@import url('/Components/_link-button.css');
+@import url('./Components/_link-button.css');
 @import url('./Components/_gallery.css');
 
 .s-wrapper {
